@@ -4,6 +4,7 @@ import './index.css';
 
 import { ApolloProvider } from 'react-apollo';
 import ApolloClient from "apollo-boost";
+import 'semantic-ui-css/semantic.min.css';
 import * as serviceWorker from './serviceWorker';
 import Routes from './routes';
 
